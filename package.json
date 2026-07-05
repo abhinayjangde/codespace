@@ -2,7 +2,7 @@
   "name": "convex-tutorial",
   "version": "0.0.0",
   "scripts": {
-    "dev": "convex dev --start 'vite --open'",
+    "dev": "convex dev --start \"vite --open\"",
     "build": "tsc && vite build"
   },
   "dependencies": {
